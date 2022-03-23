@@ -145,6 +145,7 @@ img {
 
 header {
     display: flex;
+    align-items: center;
 }
 
 header img {
@@ -154,7 +155,6 @@ header img {
 header h1 {
     flex-grow: 1;
     justify-content: center;
-    align-items: center;
 }
 
 aside {
